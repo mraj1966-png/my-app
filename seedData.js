@@ -61,8 +61,7 @@ window.DEFAULT_QUIZZES = [
         ],
         correctAnswer: 2
       },
-    
-    {
+     {
         id: 6,
         question: "which article give indian freedom to host flage at public place ?",
         options: [
@@ -73,8 +72,6 @@ window.DEFAULT_QUIZZES = [
         ],
         correctAnswer: 1
       },
-    ]
-  },
   {
     id: "world-geography-basic",
     title: "World Geography Essentials",
