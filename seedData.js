@@ -72,7 +72,7 @@ window.DEFAULT_QUIZZES = [
           "article 15 "
         ],
         correctAnswer: 1
-      }
+      },
     ]
   },
   {
