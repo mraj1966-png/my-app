@@ -60,6 +60,18 @@ window.DEFAULT_QUIZZES = [
           "15 Schedules"
         ],
         correctAnswer: 2
+      },
+    
+    {
+        id: 6,
+        question: "which article give indian freedom to host flage at public place ?",
+        options: [
+          "article 19",
+          "article 10",
+          "article 12 ",
+          "article 15 "
+        ],
+        correctAnswer: 1
       }
     ]
   },
